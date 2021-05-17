@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1012284210419",
+    "firebase_url": "https://thereactnativeapp-default-rtdb.firebaseio.com",
+    "project_id": "thereactnativeapp",
+    "storage_bucket": "thereactnativeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012284210419:android:367401622dc78ec9ed4b86",
+        "android_client_info": {
+          "package_name": "com.filestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012284210419-402lcdmjn5t2vl7sis3dg87c71emunmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR5DLdyI5WyEtz0XOHPYQ7uuk1V9NojOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012284210419-402lcdmjn5t2vl7sis3dg87c71emunmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012284210419:android:152fc60aff602e3bed4b86",
+        "android_client_info": {
+          "package_name": "com.firebasereact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012284210419-402lcdmjn5t2vl7sis3dg87c71emunmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR5DLdyI5WyEtz0XOHPYQ7uuk1V9NojOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012284210419-402lcdmjn5t2vl7sis3dg87c71emunmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012284210419:android:66fbf152cca2a4e9ed4b86",
+        "android_client_info": {
+          "package_name": "com.maedicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012284210419-402lcdmjn5t2vl7sis3dg87c71emunmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR5DLdyI5WyEtz0XOHPYQ7uuk1V9NojOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012284210419-402lcdmjn5t2vl7sis3dg87c71emunmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
